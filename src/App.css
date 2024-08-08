@@ -1,0 +1,59 @@
+/* src/ChatAI.css */
+
+.app {
+  width: 100%;
+}
+
+.chat-container {
+  margin: 20px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+.chat-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.chat-input {
+  flex: 1;
+  background-color: #242424;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.chat-button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.chat-button:hover {
+  background-color: #0056b3;
+}
+
+.chat-answer {
+  width: 1000px;
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  background-color: #242424;
+  color: #fff;
+  font-size: 14px;
+}
