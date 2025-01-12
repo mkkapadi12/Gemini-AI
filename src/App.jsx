@@ -1,14 +1,9 @@
-// src/App.js
 import React from "react";
-import ChatAI from "./components/ChatAI";
-import "./App.css";
 
-function App() {
-  return (
-    <div className="app">
-      <ChatAI />
-    </div>
-  );
-}
+import Home from "./pages/Home";
+
+const App = () => {
+  return <Home />;
+};
 
 export default App;

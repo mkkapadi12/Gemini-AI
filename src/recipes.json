@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Classic Chocolate Chip Cookies",
+    "ingredients": [
+      { "item": "butter", "amount": "1 cup", "form": "softened" },
+      { "item": "granulated sugar", "amount": "1 cup" },
+      { "item": "packed brown sugar", "amount": "1 cup" },
+      { "item": "large eggs", "amount": "2" },
+      { "item": "vanilla extract", "amount": "2 teaspoons" },
+      { "item": "all-purpose flour", "amount": "3 cups" },
+      { "item": "baking soda", "amount": "1 teaspoon" },
+      { "item": "salt", "amount": "1/2 teaspoon" },
+      { "item": "chocolate chips", "amount": "2 cups" }
+    ],
+    "instructions": "Preheat oven to 375°F (190°C). Cream together butter and sugars. Beat in eggs and vanilla. Combine dry ingredients, then gradually add to wet ingredients. Stir in chocolate chips. Drop by rounded tablespoons onto baking sheets. Bake for 9-11 minutes.",
+    "notes": "Chill dough for chewier cookies."
+  },
+  {
+    "name": "Peanut Butter Cookies",
+    "ingredients": [
+      { "item": "butter", "amount": "1/2 cup", "form": "softened" },
+      { "item": "creamy peanut butter", "amount": "1/2 cup" },
+      { "item": "granulated sugar", "amount": "1/2 cup" },
+      { "item": "packed brown sugar", "amount": "1/2 cup" },
+      { "item": "large egg", "amount": "1" },
+      { "item": "vanilla extract", "amount": "1 teaspoon" },
+      { "item": "all-purpose flour", "amount": "1 1/2 cups" },
+      { "item": "baking soda", "amount": "1/2 teaspoon" },
+      { "item": "salt", "amount": "1/4 teaspoon" }
+    ],
+    "instructions": "Preheat oven to 350°F (175°C). Cream together butter, peanut butter, and sugars. Beat in egg and vanilla. Combine dry ingredients, then gradually add to wet ingredients.  Drop by rounded tablespoons onto baking sheets. Flatten with a fork. Bake for 8-10 minutes.",
+    "notes": "Optional: Add chocolate chips or chopped peanuts."
+  },
+  {
+    "name": "Oatmeal Raisin Cookies",
+    "ingredients": [
+      { "item": "butter", "amount": "1 cup", "form": "softened" },
+      { "item": "granulated sugar", "amount": "1 cup" },
+      { "item": "packed brown sugar", "amount": "1 cup" },
+      { "item": "large eggs", "amount": "2" },
+      { "item": "vanilla extract", "amount": "1 teaspoon" },
+      { "item": "all-purpose flour", "amount": "1 1/2 cups" },
+      { "item": "rolled oats", "amount": "2 cups" },
+      { "item": "baking soda", "amount": "1 teaspoon" },
+      { "item": "salt", "amount": "1/2 teaspoon" },
+      { "item": "cinnamon", "amount": "1 teaspoon" },
+      { "item": "raisins", "amount": "1 cup" }
+    ],
+    "instructions": "Preheat oven to 375°F (190°C). Cream together butter and sugars. Beat in eggs and vanilla. Combine dry ingredients, then gradually add to wet ingredients. Stir in oats and raisins. Drop by rounded tablespoons onto baking sheets. Bake for 10-12 minutes.",
+    "notes": "Optional: Add chopped nuts or other dried fruit."
+  },
+  {
+    "name": "Sugar Cookies",
+    "ingredients": [
+      { "item": "butter", "amount": "1 cup", "form": "softened" },
+      { "item": "granulated sugar", "amount": "1 1/2 cups" },
+      { "item": "large eggs", "amount": "2" },
+      { "item": "vanilla extract", "amount": "1 teaspoon" },
+      { "item": "all-purpose flour", "amount": "3 cups" },
+      { "item": "baking powder", "amount": "1 teaspoon" },
+      { "item": "salt", "amount": "1/4 teaspoon" }
+    ],
+    "instructions": "Preheat oven to 375°F (190°C). Cream together butter and sugar. Beat in eggs and vanilla. Combine dry ingredients, then gradually add to wet ingredients. Chill dough for at least 1 hour. Roll out dough and cut into desired shapes. Bake for 8-10 minutes.",
+    "notes": "Decorate with frosting and sprinkles after cooling."
+  }
+]
