@@ -5,6 +5,7 @@ import {
 } from "@google/generative-ai";
 
 const apiKey = process.env.GEMINI_API_KEY;
+
 const genAI = new GoogleGenerativeAI(apiKey);
 
 const model = genAI.getGenerativeModel({
@@ -25,8 +26,8 @@ const runChat = async (prompt) => {
   });
 
   const result = await chatSession.sendMessage(prompt);
-  console.log(result.response);
-  console.log(result.response.text());
+
+  return result.response.text();
 };
 
 export default runChat;

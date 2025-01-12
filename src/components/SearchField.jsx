@@ -4,17 +4,17 @@ import "./Main.css";
 import { useChatContext } from "../context/ChatContext";
 
 const SearchField = () => {
-  const { onSend } = useChatContext();
-  const [input, setInput] = useState("");
+  const { onSend, input, setInput } = useChatContext();
 
   return (
-    <div className="main-bottom">
+    <div className="main-bottom absolute bottom-0 left-0 p-5">
       <div className="search-box">
         <input
           type="text"
           placeholder="Enter a prompt here..."
+          name="text"
           value={input}
-          onChange={(e) => setInput(e.target.value)}
+          onChange={setInput}
         />
         <div>
           <span>

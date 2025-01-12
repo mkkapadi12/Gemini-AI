@@ -7,3 +7,7 @@
 * {
   font-family: outfit;
 }
+
+#root::-webkit-scrollbar {
+  display: none;
+}
